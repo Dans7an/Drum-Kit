@@ -10,3 +10,8 @@ Link to project:  https://dans7an.github.io/Drum-Kit/
 How It's Made:
 Tech used: HTML, CSS and JavaScript
 
+Optimization
+I used the switch statements in order to produce a cleaner and more efficient syntax. 
+
+Improvements
+I am still working on the visual animation that is supposed to take place when an image is selected.
